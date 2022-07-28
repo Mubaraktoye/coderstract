@@ -69,9 +69,11 @@ export const Heading = styled.h1`
   font-size: 40px;
   line-height: 1.1;
   font-weight: 600;
+  font-family:  "Courier New", monospace;
   color: ${({ lightText }) => (lightText ? 'cyan' : '#008b8b')};
   @media screen and (max-width: 768px) {
     font-size: 20px;
+   
   }
 `;
 
