@@ -5,12 +5,12 @@ export const homeObjOne = {
   lightText: true,
   lightTextDesc: true,
   topLine: '',
-  headline: 'We believe the best and the quickest approach to learn coding is  having an instructor who will instruct you and walk you through each and every step.',
+  headline: 'THE BEST PLACE TO LEARN CODING; ONE ON ONE WITH INSTRUCTOR',
   description:
     'You will learn directly from people that really know it.',
   buttonLabel: 'Join Our Next Cohort',
   imgStart: '',
-  img: 'https://spaces-wp.imgix.net/2016/06/coding-in-the-classroom.png?auto=compress,format&q=50',
+  img: 'https://i.gifer.com/3jKD.gif',
   alt: 'Code image',
   start: ''
 };
@@ -45,7 +45,7 @@ export const homeObjThree = {
     "We do not subscribe to that as well. We will teach you in real-time",
   buttonLabel: 'Join Our Next Cohort',
   imgStart: 'start',
-  img: 'http://events-virtually.com/images/woman-sleeping.jpg',
+  img: 'https://i.gifer.com/HaD1.gif',
   alt: 'Vault',
   start: 'true'
 };

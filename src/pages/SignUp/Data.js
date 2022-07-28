@@ -3,14 +3,14 @@ export const homeObjOne = {
   lightText: true,
   lightTopLine: true,
   lightTextDesc: true,
-  topLine: 'Sign up Today',
-  headline: 'Join today to receive an exclusive offer',
+  topLine: 'CODING IS EASY',
+  headline: '',
   description:
-    'Get access to our exclusive diamond king package. Limited quantity available.',
-  buttonLabel: 'Sign Up',
+    'We believe the best and the quickest approach to learn coding is  having an instructor who will instruct you and walk you through each and every step.',
+  buttonLabel: '',
   imgStart: '',
-  img: require('../../images/svg-2.svg'),
-  alt: 'Credit Card'
+  img: "https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif",
+  alt: 'CODERSTRACT'
 };
 
 export const homeObjTwo = {
@@ -33,13 +33,13 @@ export const homeObjThree = {
   lightText: false,
   lightTopLine: true,
   lightTextDesc: false,
-  topLine: 'Easy Setup',
-  headline: 'Super fast and simple onboarding process',
+  topLine: '',
+  headline: 'We believe the best and the quickest approach to learn coding is  having an instructor who will instruct you and walk you through each and every step.',
   description:
-    "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
+    "YOU WILL FIND CODING EASY WITH US",
   buttonLabel: 'Start Now',
   imgStart: 'start',
-  img: require('../../images/svg-1.svg'),
+  img: 'https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif',
   alt: 'Vault'
 };
 
