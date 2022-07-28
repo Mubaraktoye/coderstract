@@ -10,8 +10,8 @@ export const homeObjOne = {
     'You will learn directly from people that really know it.',
   buttonLabel: 'Join Our Next Cohort',
   imgStart: '',
-  img: 'https://assets.entrepreneur.com/content/3x2/2000/20181121164532-GettyImages-1021137062.jpeg',
-  alt: 'Credit Card',
+  img: 'https://spaces-wp.imgix.net/2016/06/coding-in-the-classroom.png?auto=compress,format&q=50',
+  alt: 'Code image',
   start: ''
 };
 
