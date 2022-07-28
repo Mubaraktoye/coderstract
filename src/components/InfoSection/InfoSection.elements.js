@@ -66,10 +66,13 @@ export const Img = styled.img`
 
 export const Heading = styled.h1`
   margin-bottom: 24px;
-  font-size: 48px;
+  font-size: 40px;
   line-height: 1.1;
   font-weight: 600;
   color: ${({ lightText }) => (lightText ? 'cyan' : '#008b8b')};
+  @media screen and (max-width: 768px) {
+    font-size: 20px;
+  }
 `;
 
 export const Subtitle = styled.p`
