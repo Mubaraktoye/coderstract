@@ -3,13 +3,13 @@ export const homeObjOne = {
   lightText: false,
   lightTopLine: false,
   lightTextDesc: false,
-  topLine: 'View Our Products',
-  headline: 'Shop through our catalog of products',
+  topLine: 'REACT',
+  headline: 'JAVASCRIPT FRAME WORK TO BUILD UI',
   description:
-    'We provide worldwide shipping to all countries. If there are any issues, just issue a refund and we will process your request',
-  buttonLabel: 'Shop Now',
+  'React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called components. React has a few different kinds of components,',
+  buttonLabel: 'JOIN NEXT REACT COHORT',
   imgStart: '',
-  img: require('../../images/svg-1.svg'),
+  img:'https://miro.medium.com/max/1400/1*77VFzpklgL26QApHui2N4A.png',
   alt: 'Credit Card'
 };
 
@@ -18,40 +18,40 @@ export const homeObjTwo = {
   lightText: true,
   lightTopLine: true,
   lightTextDesc: true,
-  topLine: '100% Secure',
-  headline: 'Stay protected 24/7 anywhere anytime',
+  topLine: 'JAVA',
+  headline: 'HIGH LEVEL CLASS BASED, OBJECT-ORIENTED-PROGRAMING',
   description:
-    'We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime',
-  buttonLabel: 'Learn More',
+    'Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc.',
+  buttonLabel: 'JOIN NEXT JAVA COHORT',
   imgStart: '',
-  img: require('../../images/svg-1.svg'),
-  alt: 'Vault'
+  img: 'https://qph.cf2.quoracdn.net/main-qimg-dcf722c20b8a88578a2c4be99b03e46d-lq',
+  alt: 'coderstract java'
 };
 
 export const homeObjThree = {
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
-  topLine: 'Easy Setup',
-  headline: 'Super fast and simple onboarding process',
+  topLine: 'PYTHON',
+  headline: 'EASY TO READ. SIMPLE TO IMPLEMENT PROGRAMMING LANGUAGE',
   description:
-    "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
-  buttonLabel: 'Start Now',
+    "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and is not specialized for any specific problems.",
+  buttonLabel: 'JOIN NEXT PYTHON NEXT COHORT',
   imgStart: 'start',
-  img: require('../../images/svg-1.svg'),
-  alt: 'Vault'
+  img: 'https://www.online-tech-tips.com/wp-content/uploads/2021/11/New-Featured-Image.jpg',
+  alt: 'CODERSTRACT PYTHON'
 };
 
 export const homeObjFour = {
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'DATA ANALYTICS',
-  headline: 'Every transaction is stored on our secure cloud database',
+  topLine: 'C#',
+  headline: 'GENERAL PURPOSE, MULTI-PARADIGM PROGRAMMING LANGUAGE',
   description:
-    'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
-  buttonLabel: 'Sign Up Now',
+    'C# (pronounced "See Sharp") is a modern, object-oriented, and type-safe programming language. C# enables developers to build many types of secure and robust applications that run in .NET. C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers. ',
+  buttonLabel: 'JOIN NEXT C# COHORT',
   imgStart: 'start',
-  img: require('../../images/svg-1.svg'),
+  img:'https://miro.medium.com/max/960/0*hep8e7e_VoqbPNgB.jpg',
   alt: 'Vault'
 };

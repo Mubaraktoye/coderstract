@@ -2,14 +2,14 @@ export const homeObjOne = {
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Exclusive Access',
+  topLine: 'CODING IS FUN ',
   headline: 'Unlimited Transactions with zero fees',
   description:
-    'Get access to our exclusive diamond card that allows you to  send unlimited transactions without getting charged any fees',
+    'wE HAVE MASTERED THR BEST WAY TO TREACH CODING',
   buttonLabel: 'Get Started',
   imgStart: '',
-  img: require('../../images/svg-1.svg'),
-  alt: 'Credit Card'
+  img:'https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif',
+  alt: 'CODERSTRACT'
 };
 
 export const homeObjTwo = {

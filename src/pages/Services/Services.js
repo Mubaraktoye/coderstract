@@ -9,7 +9,7 @@ function Services() {
       <Pricing />
       <PricingCopy/> 
       <InfoSection {...homeObjOne} />
-      <InfoSection {...homeObjThree} />
+      
     </>
   );
 }
