@@ -3,7 +3,7 @@ export const homeObjOne = {
   lightText: true,
   lightTextDesc: true,
   topLine: 'CODING IS FUN ',
-  headline: 'AND WE LIKE TEACHING IT',
+  headline: '',
   description:
     'WE HAVE MASTERED THR BEST WAY TO TEACH CODING',
   buttonLabel: 'Get Started',
