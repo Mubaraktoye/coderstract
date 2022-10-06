@@ -3,9 +3,9 @@ export const homeObjOne = {
   lightText: true,
   lightTextDesc: true,
   topLine: 'CODING IS FUN ',
-  headline: 'Unlimited Transactions with zero fees',
+  headline: 'AND WE LIKE TEACHING IT',
   description:
-    'wE HAVE MASTERED THR BEST WAY TO TREACH CODING',
+    'WE HAVE MASTERED THR BEST WAY TO TEACH CODING',
   buttonLabel: 'Get Started',
   imgStart: '',
   img:'https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif',

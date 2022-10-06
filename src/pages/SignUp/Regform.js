@@ -45,7 +45,7 @@ function REGFORM() {
                         <p>Learn some of the most-sought after skills to earn remotely from your home or anywhere in the world</p>
                         <div className="btn-group">
                            
-                            <a className="btn-item" href="https://wa.me/message/GRHCZWCQSDEWF1">Chat With Us</a>
+                            <a className="btn-item" href="https://wa.me/message/BQ6RK2XFCTVNF1">Chat With Us</a>
                         </div>
                     </div>
                     <form action="/">

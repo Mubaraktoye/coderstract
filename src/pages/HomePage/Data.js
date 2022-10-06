@@ -45,7 +45,7 @@ export const homeObjThree = {
     "We do not subscribe to that as well. We will teach you in real-time",
   buttonLabel: 'Join Our Next Cohort',
   imgStart: 'start',
-  img: 'https://i.gifer.com/HaD1.gif',
+  img: 'https://media.istockphoto.com/photos/shot-of-a-young-man-suffering-from-a-headache-while-using-a-laptop-in-picture-id1421473060?k=20&m=1421473060&s=612x612&w=0&h=o3l7g446HkEkk1VxGMgh63HuGijh8B-g2vI5yBBDpjY=',
   alt: 'Vault',
   start: 'true'
 };
